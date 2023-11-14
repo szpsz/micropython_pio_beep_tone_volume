@@ -1,5 +1,5 @@
 # micropython_pio_beep_tone_volume
-simple script to generate beep using pi pico PIO with tone and volume control
+simple script to generate beep sound using pi pico PIO, single pico pin and a passive buzzer while having tone and volume control
 ## sources:
 https://github.com/benevpi/pico_pio_buzz \
 https://github.com/raspberrypi/pico-micropython-examples/blob/master/pio/pio_pwm.py \
